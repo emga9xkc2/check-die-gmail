@@ -1,0 +1,5 @@
+onlycheckdis=0
+thread=150
+keyactive=123456
+exportstatus=0
+locpassduoi8kytu=1
