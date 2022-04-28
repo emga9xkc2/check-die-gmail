@@ -8,5 +8,5 @@ https://github.com/emga9xkc2/check-die-gmail/archive/refs/heads/main.zip
 
 <b>3. Thông tin phiên bản</b>
 
-- v2.6
-  - Fix 1 số lỗi<br>
+- v2.7
+  - Fix dis tool<br>
