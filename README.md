@@ -8,7 +8,7 @@ https://github.com/emga9xkc2/check-die-gmail/archive/refs/heads/main.zip
 
 <b>3. Thông tin phiên bản</b>
 
-- v2.9
+- v2.8
 
   - Xóa gom file<br>
 
