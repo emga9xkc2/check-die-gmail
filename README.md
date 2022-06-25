@@ -9,6 +9,10 @@ https://github.com/emga9xkc2/check-die-gmail/archive/refs/heads/main.zip
 
 <b>3. Thông tin phiên bản</b>
 
+- v3.1
+
+  - Fix xuất thừa mail file All.txt.<br>
+
 - v3.0
 
   - Tự bỏ qua mail nếu check quá lâu.<br>
