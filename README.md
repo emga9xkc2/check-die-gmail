@@ -6,6 +6,7 @@ https://github.com/emga9xkc2/check-die-gmail/archive/refs/heads/main.zip
 
 - Mở file config.txt điền keyactive được gửi vào chỗ 123456 rồi lưu lại
 - Số lần thử lại khi check mail mặc định là 5. Nếu muốn tăng số lần thử lại lên 10 hãy vào file config.txt sửa dòng thulai=10
+- Sau khi mở tool lên. Bấm 1 + enter để mở file input, nhập email vào lưu lại, có thể nhập cả pass và email khôi phục để không phải lọc lại. Bấm 3 + enter để chạy, sau khi chạy xong bấm 2 + enter để mở thư mục output lấy mail
 
 <b>3. Thông tin phiên bản</b>
 
