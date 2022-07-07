@@ -4,3 +4,4 @@ keyactive=123456
 exportstatus=0
 locpassduoi8kytu=1
 thulai=5
+checklaiverify=5
