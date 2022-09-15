@@ -11,6 +11,11 @@ https://github.com/emga9xkc2/check-die-gmail/archive/refs/heads/main.zip
 
 <b>3. Thông tin phiên bản</b>
 
+- v3.4
+
+  - Fix lỗi xuất thừa data.<br>
+  - Có thể sửa checklaiverify=0 nếu không muốn check lại mail bị verify<br>
+
 - v3.3
 
   - Fix lỗi xuất thiếu data.<br>
